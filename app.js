@@ -1,4 +1,3 @@
-console.log("Hello");//This is the console statement..
-console.log("Hai");
-//commented
+
+//This is new
 //changes made from remote repository...
